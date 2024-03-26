@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=givesilverstick&show_icons=true&theme=radical)
+![Eunchae's GitHub stats](https://github-readme-stats.vercel.app/api?username=givesilverstick&show_icons=true&theme=radical)
 
 
 ## 📞 Contact 📞
